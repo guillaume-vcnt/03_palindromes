@@ -13,7 +13,3 @@ Technologies : JavaScript
 IDE : VSCode
 
 OS : Windows
-
-## Utilisation
-
-S'exécute via un terminal
